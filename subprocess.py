@@ -6,7 +6,7 @@ def basic_commands():
     u_in = input(">>")
     subprocess.call(u_in)
     return "Success!"
-
+test
 def multiple():
     print("Under constructiongit")
     return "Success!"
